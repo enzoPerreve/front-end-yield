@@ -46,7 +46,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'QuickSwap',
-        href: 'https://info.quickswap.exchange/token/0x63802aF1f00eEA04Ab93b49B19581177bc5CA104',
+        href: 'https://info.quickswap.exchange/token/0x63c5bc1dbe2539c06ee29e776fd35b47ba488a21',
       },
       {
         label: 'PolyChart',
